@@ -1,0 +1,71 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="2" />
+      <Item value="int" priority="1" />
+      <Item value="double" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:lab1_genetic.all">
+      <Item value="year" priority="2" />
+      <Item value="time" priority="2" />
+      <Item value="age" priority="2" />
+      <Item value="rating" priority="2" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:Form1.cs" caret="2089" fromTop="68" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:GA.cs" caret="2794" fromTop="4" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:P.cs" caret="2912" fromTop="18" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:all.cs" caret="175" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:Form1.cs" caret="470" fromTop="0" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:all.cs" caret="283" fromTop="12" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:all.cs" caret="175" fromTop="8" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:Form1.cs" caret="1308" fromTop="6" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:Form1.cs" caret="5780" fromTop="0" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:Form1.cs" caret="5993" fromTop="5" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:Form1.cs" caret="5305" fromTop="1" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:P.cs" caret="3800" fromTop="0" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:P.cs" caret="3753" fromTop="12" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:GA.cs" caret="5172" fromTop="12" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:GA.cs" caret="5279" fromTop="9" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:P.cs" caret="4666" fromTop="10" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:P.cs" caret="4498" fromTop="9" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:GA.cs" caret="5093" fromTop="7" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:GA.cs" caret="4305" fromTop="10" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:GA.cs" caret="4393" fromTop="0" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:Form1.cs" caret="3432" fromTop="3" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:Form1.cs" caret="3620" fromTop="9" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:Form1.cs" caret="2560" fromTop="7" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:Form1.cs" caret="2192" fromTop="10" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:P.cs" caret="2493" fromTop="9" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:Form1.cs" caret="9457" fromTop="68" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:P.cs" caret="2244" fromTop="11" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:P.cs" caret="1946" fromTop="4" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:P.cs" caret="1672" fromTop="9" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:P.cs" caret="1472" fromTop="4" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:P.cs" caret="2954" fromTop="6" />
+      <File id="1242B837-9AE9-4ADE-A34B-687392F78A80/f:GA.cs" caret="2793" fromTop="4" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

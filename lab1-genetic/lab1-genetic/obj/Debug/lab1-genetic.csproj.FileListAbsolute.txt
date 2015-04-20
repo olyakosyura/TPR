@@ -1,0 +1,35 @@
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\lab1-genetic.exe.config
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\lab1-genetic.exe
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\lab1-genetic.pdb
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\obj\Debug\lab1-genetic.csprojResolveAssemblyReference.cache
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\obj\Debug\lab1_genetic.Form1.resources
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\obj\Debug\lab1_genetic.Properties.Resources.resources
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\obj\Debug\lab1-genetic.csproj.GenerateResource.Cache
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\obj\Debug\lab1-genetic.exe
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\obj\Debug\lab1-genetic.pdb
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\ZedGraph.dll
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\ZedGraph.resources.dll
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\ZedGraph.xml
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\de\ZedGraph.resources.dll
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\es\ZedGraph.resources.dll
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\fr\ZedGraph.resources.dll
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\hu\ZedGraph.resources.dll
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\it\ZedGraph.resources.dll
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\ja\ZedGraph.resources.dll
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\pt\ZedGraph.resources.dll
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\ru\ZedGraph.resources.dll
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\sk\ZedGraph.resources.dll
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\sv\ZedGraph.resources.dll
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\tr\ZedGraph.resources.dll
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\УЧЕБА\X семестр\ТПР\lab1-genetic\lab1-genetic\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\MAXIMUS\Desktop\TPR\lab1-genetic\lab1-genetic\bin\Debug\lab1-genetic.exe.config
+C:\Users\MAXIMUS\Desktop\TPR\lab1-genetic\lab1-genetic\bin\Debug\lab1-genetic.exe
+C:\Users\MAXIMUS\Desktop\TPR\lab1-genetic\lab1-genetic\bin\Debug\lab1-genetic.pdb
+C:\Users\MAXIMUS\Desktop\TPR\lab1-genetic\lab1-genetic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MAXIMUS\Desktop\TPR\lab1-genetic\lab1-genetic\obj\Debug\lab1_genetic.Form1.resources
+C:\Users\MAXIMUS\Desktop\TPR\lab1-genetic\lab1-genetic\obj\Debug\lab1_genetic.Properties.Resources.resources
+C:\Users\MAXIMUS\Desktop\TPR\lab1-genetic\lab1-genetic\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MAXIMUS\Desktop\TPR\lab1-genetic\lab1-genetic\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MAXIMUS\Desktop\TPR\lab1-genetic\lab1-genetic\obj\Debug\lab1-genetic.exe
+C:\Users\MAXIMUS\Desktop\TPR\lab1-genetic\lab1-genetic\obj\Debug\lab1-genetic.pdb
