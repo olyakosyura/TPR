@@ -16,8 +16,8 @@ scale = [
         {'definition': 'Supreme superiority of the second one', 'value': 1.0/9}, 
     ]
 
-criterias = ['Стиль', 'Надежность', 'Экономия топлива','Стоимость обслуживания','Безопасность']
-alternatives = ['Жигули', 'Nissan', 'VW','Toyota','Subaru']
+criterias = ['Стиль', 'Экономия топлива','Стоимость обслуживания','Безопасность']
+alternatives = ['Жигули', 'Nissan', 'VW','Toyota']
 
 def make_eigenvector(matrix):
     eigenvector = []
